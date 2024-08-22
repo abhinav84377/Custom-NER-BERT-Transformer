@@ -1,2 +1,2 @@
 # Custom-NER
-Fine-Tune BERT Uncased model of custom dataset 
+Fine-Tune BERT Uncased model on custom dataset 
